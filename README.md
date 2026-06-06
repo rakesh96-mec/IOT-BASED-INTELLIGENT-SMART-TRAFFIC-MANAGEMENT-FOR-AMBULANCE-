@@ -148,6 +148,6 @@ The system successfully demonstrates:
 
 **Rakesh Nuggehalli Ramesh**
 
-Diploma Project – Mechatronics Engineering
+Mini Bachelor's Project – Mechatronics Engineering
 
 GitHub: https://github.com/rakesh96-mec
